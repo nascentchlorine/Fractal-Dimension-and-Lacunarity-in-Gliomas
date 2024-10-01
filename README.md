@@ -1,8 +1,3 @@
-# Fractal-Dimension-and-Lacunarity-in-Gliomas
-
-# Note:
-This work was done as a part of Dissertation project at Indian Institute of Science Education and Research Berhampur. 
-
 # Shape-metrics-Gliomas
 2D and 3D Fractal Dimension and Lacunarity - Calculation and Analysis in Gliomas
 
@@ -39,4 +34,3 @@ The data and codes are a part of the paper uploaded to BioRxiv titled: "Fractali
   iii. Dictionary.csv --> Dictionary explaining the abbreviations used in the fractal_lac_data.csv document.
 
 11. Folder `All_Tumor_masks_nii_files` contains the glioma masks (glioma region in the brain) of all subjects used in this study in NIfTI file format. The glioma masks were used as the input for calculating fractal dimension and lacunarity of the glioma subcomponents.
-
